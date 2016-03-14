@@ -1,0 +1,28 @@
+name: uiflabs
+favicon: null
+layout_spectrum: 0.36546300747431815
+typography_spectrum: 0.28316293749958277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4275400305632502
+  lightness: 0.5521763707511127
+  saturation: 0.7391088886652142
+  rhythmicContrast: 0.21910886862315238
+purpose: []
